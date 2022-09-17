@@ -1,4 +1,4 @@
-# AnyTv
+# AnyTV
 Movie Player for Android TV
 
 Tìm và tải xuống phiên bản mới nhất tại: https://github.com/hajaulee/AnyTv/tree/master/app/release
