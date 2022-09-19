@@ -11,11 +11,17 @@ Tìm và tải xuống phiên bản mới nhất tại: https://github.com/hajau
 <img src="https://user-images.githubusercontent.com/26093363/190843299-85ec2231-e51f-416f-b51d-2ada40be3a48.png"  width="400"/>
 </p>
 
-3. Thông tin phim và trình phát phim
+2. Thông tin phim và trình phát phim
 <p>
 <img src="https://user-images.githubusercontent.com/26093363/190843306-4a62d126-64cd-4ddb-9178-3b4eb7f0aa1b.png"  width="400"/>
 <img src="https://user-images.githubusercontent.com/26093363/190843314-45b15ba2-518a-4d3e-9447-7dde99d38db4.png"  width="400"/>
 </p>
+
+3. Quản lý extension
+<p>
+<img src="https://user-images.githubusercontent.com/26093363/190915391-725e5460-5299-4d99-81d0-1f908c4ec48a.png"  width="400"/>
+</p>
+
 
 ## Phát triển phần mở rộng
 
