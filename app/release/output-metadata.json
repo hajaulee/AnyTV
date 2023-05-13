@@ -11,9 +11,9 @@
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 9,
-      "versionName": "1.9.11",
-      "outputFile": "AnyTV-1.9.11-release.apk"
+      "versionCode": 10,
+      "versionName": "1.9.12",
+      "outputFile": "AnyTV-1.9.12-release.apk"
     }
   ],
   "elementType": "File"
