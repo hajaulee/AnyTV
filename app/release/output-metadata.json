@@ -4,17 +4,34 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.hajaulee.anytv",
+  "applicationId": "com.hajaulee.anytv_web",
   "variantName": "release",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 13,
-      "versionName": "1.11.1",
-      "outputFile": "AnyTV-1.11.1-release.apk"
+      "versionCode": 1,
+      "versionName": "2.0.0",
+      "outputFile": "AnyTV-2.0.0-release.apk"
     }
   ],
-  "elementType": "File"
+  "elementType": "File",
+  "baselineProfiles": [
+    {
+      "minApi": 28,
+      "maxApi": 30,
+      "baselineProfiles": [
+        "baselineProfiles/1/AnyTV-2.0.0-release.dm"
+      ]
+    },
+    {
+      "minApi": 31,
+      "maxApi": 2147483647,
+      "baselineProfiles": [
+        "baselineProfiles/0/AnyTV-2.0.0-release.dm"
+      ]
+    }
+  ],
+  "minSdkVersionForDexing": 24
 }
