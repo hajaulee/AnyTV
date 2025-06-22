@@ -4,18 +4,17 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.hajaulee.anytv_web",
+  "applicationId": "com.hajaulee.anytv.hajaumanager",
   "variantName": "release",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 1,
-      "versionName": "2.0.4",
-      "outputFile": "AnyTV-2.0.4-release.apk"
+      "versionCode": 4,
+      "versionName": "1.0.7",
+      "outputFile": "app-release.apk"
     }
   ],
-  "elementType": "File",
-  "minSdkVersionForDexing": 24
+  "elementType": "File"
 }
